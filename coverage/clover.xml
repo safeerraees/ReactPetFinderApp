@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1585809872442" clover="3.2.0">
+  <project timestamp="1585809872443" name="All files">
+    <metrics statements="33" coveredstatements="8" conditionals="17" coveredconditionals="1" methods="14" coveredmethods="3" elements="64" coveredelements="12" complexity="0" loc="33" ncloc="33" packages="1" files="3" classes="3"/>
+    <file name="Carousel.js" path="E:\Development\React\myprogress\src\Carousel.js">
+      <metrics statements="13" coveredstatements="0" conditionals="11" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="cond" truecount="0" falsecount="5"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="25" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+    </file>
+    <file name="Details.js" path="E:\Development\React\myprogress\src\Details.js">
+      <metrics statements="14" coveredstatements="7" conditionals="6" coveredconditionals="1" methods="5" coveredmethods="3"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="28" count="0" type="stmt"/>
+      <line num="30" count="0" type="stmt"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="47" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="48" count="3" type="stmt"/>
+      <line num="59" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+    </file>
+    <file name="Modal.js" path="E:\Development\React\myprogress\src\Modal.js">
+      <metrics statements="6" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
